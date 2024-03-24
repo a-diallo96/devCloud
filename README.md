@@ -1,6 +1,6 @@
 # Projet de gestion des films et des commentaires
 
-Ce projet vise à créer une API pour gérer les films et les commentaires associés à l'aide de Next.js. L'API permettra de récupérer, d'ajouter, de mettre à jour et de supprimer des films, ainsi que de gérer les commentaires associés à ces films.
+Ce projet vise à utiliser une API déjà prêt pour gérer les films et les commentaires associés à l'aide de Next.js. L'API permettra de récupérer, d'ajouter, de mettre à jour et de supprimer des films, ainsi que de gérer les commentaires associés à ces films.
 
 ## Technologies utilisées
 
