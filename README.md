@@ -35,4 +35,4 @@ Le projet est structuré de la manière suivante :
 
 ## Documentation de l'API
 
-La documentation de l'API est disponible dans le cloud en utilisant sample_mflix.
+La documentation de l'API est générée automatiquement par Swagger et est accessible dans le site mongodb Atlas "sample_mflix"
